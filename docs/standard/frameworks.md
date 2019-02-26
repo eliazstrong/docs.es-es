@@ -29,6 +29,8 @@ Para plataformas de destino basadas en paquetes (por ejemplo, .NET Standard y .N
 
 En la tabla siguiente, se definen las plataformas de destino más usadas, cómo se hace referencia a ellas y la versión de [.NET Standard](~/docs/standard/net-standard.md) que implementan. Estas versiones de plataformas de destino son las últimas versiones estables. No se muestran las versiones preliminares. Un moniker de la plataforma de destino (TFM) es un formato de token normalizado para especificar la plataforma de destino de una aplicación o biblioteca de .NET.
 
+Un moniker es un método de vinculación de objetos derivado de la tecnología de Microsoft para la vinculación e incrustación de objetos (OLE). Se refiere a un objeto o componente en el Modelo de objetos componentes (COM) de Microsoft que se usa para identificar otra instancia de objeto.
+
 | Plataforma de destino      | Latest <br/> Versión estable | Moniker de la plataforma de destino (TFM) | Implementado <br/> Versión de .NET Standard |
 | :-------------------: | :-------------------------: | :----------------------------: | :-------------------------------------: |
 | .NET Standard         | 2.0                         | netstandard2.0                 | N/D                                     |
